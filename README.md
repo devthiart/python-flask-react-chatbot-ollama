@@ -67,13 +67,13 @@ This project is an AI-powered chatbot leveraging Facebook's Ollama LLaMa3 model.
 
 ## Usage
 
-1. Start the Flask Backend server:
+1. In backend folder, start the Flask Backend server:
 
     ```bash
-    python server.py
+    python app.py
     ```
 
-2. In another terminal, start the Frontend:
+2. In another terminal, in frontend folder start the Frontend:
 
     ```bash
     npm start
